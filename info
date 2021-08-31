@@ -1,0 +1,1 @@
+网上找的搭建shadowsocks的代码，但是脚本适用于centos7，由于centos8的安装python时需要指定版本，所以对原代码做了点修改
